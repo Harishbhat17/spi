@@ -14,7 +14,7 @@ reg [2:0] counter=0;
 always @(posedge clk)
 begin
 vaild_q<=vaildin;
-start_q<=start_s;
+start_q<=start;
 end
 assign vaild_edge=vaildin & ~vaild_q;
 assign start_edge= start &~start_q;
