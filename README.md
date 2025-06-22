@@ -65,7 +65,7 @@ This project is open source under the MIT License.
 
 ## Author
 
-- Developed by: *[Your Name]*
+- Developed by:Harish Vishwanath Bhat
 - Date: January 29, 2020
 
 ---
